@@ -1,0 +1,1 @@
+Implemented a real-time data pipeline to stream data via Apache Nifi. Pipelined the data from S3 to Snowflake in near real-time, and successfully implemented Slowly Changing Dimension, Change Data Capture, and Incremental Load using Snowflake Stream and Task.
